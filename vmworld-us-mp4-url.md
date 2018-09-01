@@ -1,6 +1,6 @@
 # VMworld US 2018 Breakout Sessions .MP4 URLs
 
-[William Lam[(https://github.com/lamw/vmworld2018-session-urls)] has built a nice summary list of all VMworld US 2018 Breakout session with the respective video playback URLs. So I just transformed that URLs into the final .mp4 so you can download the sessions easily directly from here using DownThemAll! (I've used WaterFox as it does support the extension still)
+[William Lam](https://github.com/lamw/vmworld2018-session-urls) has built a nice summary list of all VMworld US 2018 Breakout session with the respective video playback URLs. So I just transformed that URLs into the final .mp4 so you can download the sessions easily directly from here using DownThemAll! (I've used WaterFox as it does support the extension still)
 
 Total Sessions: 585
 Total Sessions Posted: 570
@@ -10,640 +10,1208 @@ Total Sessions NOT posted: 15
 ## Branch and Edge (9)
 
 [BRE2129BU - Introduction to NSX SD-WAN by VeloCloud: Transforming the WAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2129BU)
+
 [BRE2165BU - SD-WAN Use Cases Designed to Optimize Your Network](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2165BU)
+
 [BRE2166BU - SD-WAN Security Integration: Control & Management for a Bulletproof Network](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2166BU)
+
 [BRE2167BU - Zero to 60 in Two Seconds with VMware NSX SD-WAN by VeloCloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2167BU)
+
 [BRE2168BU - Deployment of Hybrid SD-WAN with Real-World Examples ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2168BU)
+
 [BRE2171PU - Customer Panel on??NSX SD-WAN by VeloCloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE2171PU)
+
 [BRE3038BU - Consuming Cloud Provider SD-WAN Services??](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/BRE3038BU)
+
 [NS3729KU - The NSX Keynote: Building the Network of the Future with the Virtual Cloud Network](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NS3729KU)
+
 [SEC3730KU - Transforming Security in a Cloud and Mobile World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SEC3730KU)
 
 ## Cloud Management 
 
 [CNA1075BU - Operating and Managing Kubernetes on Day 2 with PKS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1075BU)
+
 [CNA1200BU - Deploy vSphere Integrated Containers in Production: Case Study with Allegis](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1200BU)
+
 [CNA1232BU - Have Your Cake and Eat It: VMware IT Adoption of PKS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1232BU)
+
 [DC3732KU - Driving Transformation from the Data Center to the Public Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DC3732KU)
+
 [DC3845KU - Cloud and Developer Keynote: Public Clouds and Kubernetes at Scale](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DC3845KU)
+
 [HCI3728KU - Innovating Beyond HCI: How VMware is Driving the Next Data Center Revolution](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3728KU)
+
 [HYP2890BU - How Cloud Service Providers deliver Multi-Cloud Management-as-a-Service](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2890BU)
+
 [LDT1515PU - Transformers: How VMware IT Transitioned to a Services-Based Organization](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1515PU)
+
 [LDT1719BU - Taming Security with Tools: Making Compliance a Reality](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1719BU)
+
 [LDT1787BU - Aspiring for Operational Excellence by Shortening Value Chains](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1787BU)
+
 [MGT1063PU - Developer Cloud Introduction ??? VMware's New Cloud Management Strategy](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1063PU)
+
 [MGT1201BU - Self-Driving Operations: What???s New with vRealize Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1201BU)
+
 [MGT1336PU - Tales from the Trenches: Realizing the Full Value of vRealize Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1336PU)
+
 [MGT1352BU - Create a ServiceNow Self-Service Portal with a vRealize Automation Plug-in](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1352BU)
+
 [MGT1399BU - DevOps Radar: Visibility Scaling SaaS, Containers, Serverless in Wavefront](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1399BU)
+
 [MGT1440BU - Operationalize Your World: Practical Steps Toward Proactive Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1440BU)
+
 [MGT1534BU - vRealize Operations Capacity and Cost Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1534BU)
+
 [MGT1540BU - See Everything: Cross-Cloud Observability with Wavefront Current and Future](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1540BU)
+
 [MGT1614BU - Effectively Operating an Automated Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1614BU)
+
 [MGT1640BU - Self-Driving Operations with vRealize Operations Performance Optimization](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1640BU)
+
 [MGT1644QU - Discover How to Save Up to 30% on Cloud Infrastructure with vSphere Optimization Assessment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1644QU)
+
 [MGT1645BU - Doing the Impossible: Change Dev Team Spending Behavior Through Showback](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1645BU)
+
 [MGT1650BU - Accelerate DevOps with Cloud Automation and Configuration Management ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1650BU)
+
 [MGT1652BU - Application Networking and Security with vRealize Automation and NSX-T](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1652BU)
+
 [MGT1763BU - How to develop a multi-cloud strategy to accelerate digital transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1763BU)
+
 [MGT1772BU - Brokering Services Across Multiple Clouds and Platforms](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1772BU)
+
 [MGT1773BU - Container Management and VMware PKS Support for vRealize Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1773BU)
+
 [MGT1774BU - Ring Central Maximizes Agility and Developer Productivity with vRealize](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1774BU)
+
 [MGT1815BU - Leading Financial Services Transformation in a Multi-Cloud World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1815BU)
+
 [MGT2102BU - Accelerate your IT Code and Application Delivery ??? Customer Perspectives](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2102BU)
+
 [MGT2139BU - Manage Wavefront Monitoring with the New VMware Application Proxy](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2139BU)
+
 [MGT2174BU - Deep Dive: How Fannie Mae Releases vRealize Content Using Lifecycle Manager](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2174BU)
+
 [MGT2191BU - Advanced Extensibility Use Case: vRealize Automation and Ansible Tower](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2191BU)
+
 [MGT2204BU - VMware Cloud Management: See the Mother of All Demos!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2204BU)
+
 [MGT2242BU - What's New in vRealize Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2242BU)
+
 [MGT2528BU - vRealize Automation Architecture and Troubleshooting Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2528BU)
+
 [MGT2552BU - Troubleshooting Made Easy](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2552BU)
+
 [MGT2556BU - Use Cloud Services to Deploy and Maintain Apps in a Multi-Cloud Environment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2556BU)
+
 [MGT2566BU - HCI Management Using vRealize Operations and vCenter](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2566BU)
+
 [MGT2621BU - From VI Admin to Cloud Ninja: Top 5 Skills Needed in the Digital Age](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2621BU)
+
 [MGT2843BU - Code Stream Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2843BU)
+
 [MGT2844BU - AWS App Security and Visibility with Network Insight and Log Intelligence](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2844BU)
+
 [MGT2887BU - Deep Dive: How to Drive Down Your Cost in Hybrid Cloud with Cost Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2887BU)
+
 [MGT2915BU - Agile Cloud Management with VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2915BU)
+
 [MGT2934BU - Optimize Workload Cost and Performance Using the vRealize Suite](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2934BU)
+
 [MGT2954BU - Introduction to Real-Time Insight and Governance for Cloud Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2954BU)
+
 [MGT3054QU - Deep Dive into Wavefront Log Data Metrics and Log Intelligence](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3054QU)
+
 [MGT3112BU - When Seconds Mean Dollars: Intelligent IT Operations at the CME Group](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3112BU)
+
 [MGT3192BU - Deep Dive: Multi-Cloud Troubleshooting for Infrastructure and Applications](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3192BU)
+
 [MGT3369BU - Meet vRealize Operations Ninjas: Charter Communications and Vanguard](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3369BU)
+
 [MGT3711BUS - A Tale of CI/CD, Infrastructure as Code, and Data Protection](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3711BUS)
+
 [MGT3718BU - Finding "Connected Threats" - The Hidden Risks in Your Public Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3718BU)
+
 [MGT3719BU - Automating Cloud Security, Compliance and Governance into the CI/CD System](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3719BU)
+
 [MGT3759BUS - How GameStop Leveraged the Cloud to Meet Business Continuity SLAs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3759BUS)
+
 [MGT3760BUS - How SailPoint Modernized its Datacenter with the Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3760BUS)
+
 [MGT3774PUS - A journey to NSX ??? how to solve the "choose two out of three" quandary.](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3774PUS)
+
 [NET1723BU - Day 2 Automation of NSX Data Center Using vRealize Suite](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1723BU)
+
 [NET2119BU - Building Private Clouds with NSX-T Data Center & VIO: Lessons from DMM.com ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2119BU)
+
 [NET2764BU - Introduction to vRealize Network Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2764BU)
+
 [NET2883BU - Introduction to NSX Data Center for Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2883BU)
+
 [NET3409BU - Using vRealize Network Insight to Optimize the Software-Defined Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3409BU)
+
 [SAI2555BU - Accelerate App Security and Availability with vRealize Network Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2555BU)
 
 ## Cloud Networking 
 
 [CNA1564BU - Container and Kubernetes 101 for vSphere Admins](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1564BU)
+
 [HCI1884BU - NSX and Generic Network Overlays with HCI: Everything You Need to Know](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1884BU)
+
 [HYP1142BU - Case Study: Hybrid Cloud with vCloud Extender from Customer to Provider](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1142BU)
+
 [HYP2406BU - VMware NSX for Service Providers: A Technical View](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2406BU)
+
 [NET1106BU - Advanced NSX Data Center: Demystifying the VTEP, MAC, and ARP Tables](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1106BU)
+
 [NET1127BU - Logical Routing Deep Dive on??NSX-T Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1127BU)
+
 [NET1128BU - Logical Routing Deep Dive on NSX Data Center for vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1128BU)
+
 [NET1283QU - How VMware IT Leverages VMware NSX for Large-Scale, Self-Service IaaS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1283QU)
+
 [NET1285BU - The Future of Networking and Security with VMware NSX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1285BU)
+
 [NET1327BU - VMware Cloud on AWS with NSX: Use Cases, Design, and Implementation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1327BU)
+
 [NET1490QU - Scalable Networking and Security for Kubernetes on OpenStack](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1490QU)
+
 [NET1516BU - Introduction to NSX Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1516BU)
+
 [NET1528BU - PowerNSX: Bringing the Power of PowerCLI to VMware NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1528BU)
+
 [NET1536BU - Multi-Site Networking and Security with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1536BU)
+
 [NET1537BU - NSX-T Data Center Architecture and Benefits](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1537BU)
+
 [NET1549BU - Deep Dive into Operationalizing NSX-T Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1549BU)
+
 [NET1559BU - SDDC Reference Design with NSX Data Center for vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1559BU)
+
 [NET1561BU - Next-Generation Reference Design with NSX-T Data Center: Part 1](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1561BU)
+
 [NET1562BU - Next-Generation Reference Design with NSX-T Data Center: Part 2](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1562BU)
+
 [NET1586BU - Networking and Security for Small Data Centers with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1586BU)
+
 [NET1610BU - NSX-T Edge Services: Design and Deployment Options](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1610BU)
+
 [NET1631QU - NSX Data Center for vSphere Hardware Gateway Solution](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1631QU)
+
 [NET1642BU - NSX-PowerOps: Day2 Ops, NSX Health, Security, and Automated Documentation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1642BU)
+
 [NET1677BU - Kubernetes Container Networking with NSX-T Data Center Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1677BU)
+
 [NET1742BU - N-VDS: The next generation switch architecture with VMware NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1742BU)
+
 [NET1754BU - NSX Cloud:??Deployment Deep Dive and Architecture](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1754BU)
+
 [NET1822BU - Upgrading NSX Data Center: A Zero Downtime Approach](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1822BU)
+
 [NET1855BU - NSX-T Data Center Performance Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1855BU)
+
 [NET1879BU - vRealize Network Insight Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1879BU)
+
 [NET1894BU - NSX Design for Cloud-native Apps with Pivotal Cloud Foundry](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1894BU)
+
 [NET1919BU - NSX Mindset: Clouds Collide, Opportunity Strikes ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1919BU)
+
 [NET1945BU - Deploying NSX Data Center on a Cisco Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1945BU)
+
 [NET2068BU - Introduction to Container Networking and Security with NSX-T Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2068BU)
+
 [NET2155QU - Troubleshooting for VMware NSX Data Center for vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2155QU)
+
 [NET2409BU - Advanced NSX Services in VMware Cloud on AWS: Use Cases and Best Practices](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2409BU)
+
 [NET2420BU - Rethinking Disaster Recovery with NSX Data Center and NSX Hybrid Connect ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2420BU)
+
 [NET2518BU - Deploying and Automating NSX-T Data Center: lessons from IHS Markit](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2518BU)
+
 [NET2628BU - Introduction to NSX Data Center for Multi-Cloud Networking](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2628BU)
+
 [NET2701BU - Virtual Cloud Network End-to-End Demo: Powered by NSX ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2701BU)
+
 [NET2761BU - NSX Data Center Load Balancing and VPN Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2761BU)
+
 [NET2770BU - Introduction to NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2770BU)
+
 [NET2865BU - VxRack Flex and VxRack SDDC HCI Networking with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2865BU)
+
 [NET2916BU - Consistent Network and Security Policy from Data Center to Cloud with NSX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET2916BU)
+
 [NET3042PU - Customer Panel on NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3042PU)
+
 [NET3193BUS - VMware NSX and Getting the Most Out of Your Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3193BUS)
+
 [NET3681PU - Lessons learned from successful NSX Deployments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3681PU)
+
 [NET3821BU - Maximize your NSX Deployment with Open Networking Solutions ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3821BU)
+
 [NET4857BU - NSX-T Data Center Install Deep Dive and Best Practices including PKS/PAS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET4857BU)
+
 [SAI2598PU - Customer Panel on Micro-Segmentation Ops with vRealize Network Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2598PU)
-[SAI3770BU - Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/[SAI3770BU)
+
+[SAI3770BU - Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/
+[SAI3770BU)
 
 ## Cloud Services 
 
 [CNA2084BU - Intro to VMware Kubernetes Engine-Managed K8s Service on Public Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2084BU)
+
 [CNA3106QU - Integrating VMware Kubernetes Engine with Existing AWS Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA3106QU)
+
 [CNA3124BU - Deep Dive: VMware Kubernetes Engine-K8s as a Service on Public Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA3124BU)
+
 [CNA3173BU - Manage 100s of clusters, 1000s of namespaces using VMware Kubernetes Engine](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA3173BU)
+
 [HYP2422BU - Enabling Cloud Marketplace Services with VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2422BU)
+
 [MGT2099BU - To Infrastructure and Beyond: Infrastructure as Code with VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2099BU)
+
 [MGT3918BU - Amazon RDS on VMware: Database Management Services on vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3918BU)
+
 [MGT4683BU - How CloudHealth Can Reduce the Cost and Complexity of Multi-cloud Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT4683BU)
+
 [SAI3217BU - Introduction to VMware AppDefense](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3217BU)
+
 [SAI3219BU - Great Power, Great Responsibility: Least Privilege Security with AppDefense](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3219BU)
+
 [SAI3243BU - Use Artificial Intelligence and Machine Learning to Simplify Security ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3243BU)
 
 ## Cloud-Native Apps 
 
 [CNA1199PU - Deploy Enterprise-Grade Kubernetes: Real-World Stories From PKS Users](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1199PU)
+
 [CNA1464BU - Securing Pivotal Cloud Foundry by Regularly Rebuilding](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1464BU)
+
 [CNA1493BU - Run Docker on Existing Infrastructure with vSphere Integrated Containers](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1493BU)
+
 [CNA1553BU - Deep Dive: The Value of Running Kubernetes on vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1553BU)
+
 [CNA1634QU - Container Portfolio at VMware ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1634QU)
+
 [CNA1656BU - Put a Lid on It: Securing Containers and Kubernetes on vSphere and in Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1656BU)
+
 [CNA1780QU - What's New with PKS and Emerging Use Cases](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1780QU)
+
 [CNA2009BU - Run Stateful Apps on Kubernetes with PKS: Highlight WebLogic Server](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2009BU)
+
 [CNA2141BU - Applying Software Design Patterns and Methodologies to Your IT Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2141BU)
+
 [CNA2755BU - Architecting PKS for Production: Lessons Learned from PKS Deployments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2755BU)
+
 [CNA3146BU - Technical Deep Dive: Kubernetes Networking and Security with NSX-T on PKS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA3146BU)
+
 [DEV1325BU - Path to Production: Value Stream Mapping in a DevOps World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1325BU)
+
 [DEV1434BU - From Building Infrastructure to Building App Platforms: Your Next Career](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1434BU)
+
 [DEV1965QU - QuickStart DevOps Culture with VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1965QU)
+
 [DEV2500BU - DevOps and Pragmatic Process Change: Top 5 Processes to Accelerate DevOps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV2500BU)
+
 [DEV2641BU - Bring Your Traditional Application to Kubernetes with PKS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV2641BU)
+
 [DEV2828BU - Automating IT Ops with Dispatch Serverless Framework ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV2828BU)
+
 [HCI1338BU - vSAN: An Ideal Storage Platform for Kubernetes-controlled Cloud-Native Apps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1338BU)
+
 [LDT1433PU - Accelerating Application Development Through Infrastructure as Code](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1433PU)
+
 [LDT1869BU - VMware IT's Cloud-Native Transformation Journey](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1869BU)
+
 [SAI1527BU - Deep Dive into NSX Data Center Security for Clouds, Containers, and More](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1527BU)
+
 [SAI3220BU - Securing Kubernetes and Docker Containers with VMware AppDefense ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3220BU)
 
 ## DevOps 
 
 [DEV1761BU - Delivering Agile Infrastructure as a Service via vRealize Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1761BU)
+
 [DEV1967BUS - Mind the Gap: Building a closer relationship between Security and DevOps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1967BUS)
+
 [DEV2403BU - DevOps Culture and Practice: From Theory to Reality ??? A VMware Story](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV2403BU)
+
 [DEV3504BU - Development at VMware: A Look at How PowerCLI Has Evolved Over the Years](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV3504BU)
+
 [HCI1813BU - A Deep Dive on Why Storage Matters in a Cloud-Native World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1813BU)
+
 [MGT2920BU - Customer Success Story: Enable Developers with Infra-as-Code and Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2920BU)
 
 ## Endpoint Management 
 
 [ACC1210BU - Implementing Endpoint Security and Conditional Access for Office 365](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC1210BU)
+
 [ACC1621PU - Customer Panel: Knocking Down the Barriers of Workspace ONE Adoption](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC1621PU)
+
 [ACC2488BU - Delivering Secure and Seamless Access to All Your Apps, Devices and Data](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2488BU)
+
 [ACC2753BU - Building Your Unique Path to the Digital Workspace](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2753BU)
+
 [ACC2892BU - Learn What's New with Workspace ONE and how to Embrace a Digital Workspace!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2892BU)
+
 [ACC2964QU - Securing the Digital Workspace with Conditional Access](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2964QU)
+
 [ACC3458BU - Workspace ONE - Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC3458BU)
+
 [DW3727KU - The Digital Workspace Keynote: End User Computing and Mobility Live!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DW3727KU)
+
 [END1156BU - Moving Beyond Limits:How VMware IT Embraced Modern Management of Windows 10](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END1156BU)
+
 [END1225BU - Troubleshooting Tips and Tricks for Your iOS Deployment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END1225BU)
+
 [END2713BU - Co-manage Workspace ONE + SCCM : Get to Windows 10 Modern Management Faster](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2713BU)
+
 [END2728PU - Customer Panel: Real World Conversations With Those Migrating to Windows 10](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2728PU)
+
 [END2748QU - Ask the Experts: How Workspace ONE Trust Network Secures Your EUC Ecosystem](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2748QU)
+
 [END2766BU - First Look at New Dell and VMware Developments That Optimize PC Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2766BU)
+
 [END2811BU - Real-World Conversations with Customers Using Modern Management for MacOS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2811BU)
+
 [END2833BU - Windows as a Service: Who Moved My Cheese and How Can I Get It Back?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2833BU)
+
 [END2852BU - Discover The Latest Workspace ONE Intelligence Capabilities and ??Use Cases](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2852BU)
+
 [END2866BU - Transform Windows 10 Management with Workspace ONE: What IT Teams Must Know](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2866BU)
+
 [END2902QU - End-User Computing at VMworld: Everything You Need to Know](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2902QU)
+
 [END2912BU - Workspace ONE Intelligence Mobile and Desktop Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2912BU)
+
 [END2930BU - Delivering the Vision of the Digital Workplace (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2930BU)
+
 [END2947BU - Securing Remote Access with Workspace One - What???s New](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2947BU)
+
 [END2948BU - Enhanced iOS Management: From Onboarding to Update Management and Beyond](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2948BU)
+
 [END2962BU - Deep Dive Into New Android Enterprise Personas and Deployment Methods](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2962BU)
+
 [END2966BU - Expanding AirWatch to UEM for macOS Modern Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2966BU)
+
 [END2978PU - How AirWatch Customers Are Moving Beyond Mobile to UEM across all Devices](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2978PU)
+
 [END3200BU - Taking the Plunge:  Windows App Lifecycle Management with Workspace ONE](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END3200BU)
+
 [END3460BU - Deep Dive Into What's New with Workspace ONE Unified Endpoint Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END3460BU)
+
 [END3572BU - Industry 4.0: How Rugged and Workplace IoT Are Transforming Supply Chains](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END3572BU)
+
 [END3818BUS - Arm your Cloud Workers for Security and Productivity with Chrome Enterprise](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END3818BUS)
+
 [LDT3674PU - Transforming the Business of Healthcare: From Maintaining to Innovating](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3674PU)
+
 [WIN3535BUR - Is VDI Dead?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3535BUR)
+
 [WIN3706PUS - Become the office hero with Dell & VMware desktop virtualization solutions ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3706PUS)
 
 ## Hybrid and Public Cloud 
+
 [HCI1145BU - Why VMware vSAN Is the Best Solution for Cloud Provider Environments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1145BU)
+
 [HCI1998BU - Enable High-Capacity Workloads with Elastic EBS-Backed vSAN on VMware Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1998BU)
+
 [HCI2827QU - Site Recovery Manager and Multiple Sites: The What, How, and Why](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2827QU)
+
 [HCI3085BU - Site Recovery Manager Integrations Across VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3085BU)
+
 [HCI3136BU - VMware Site Recovery (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3136BU)
+
 [HYP1071BU - Secure, No-Retrofit, App portability to Cloud in 4 clicks, with VMware HCX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1071BU)
+
 [HYP1187BU - VMware Cloud on AWS: The Migration Venture](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1187BU)
+
 [HYP1211BU - A Journey to VMware Cloud on AWS for Oracle and SAP Applications](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1211BU)
+
 [HYP1215BU - How VMware IT Migrated Mission-Critical Workloads to VMware Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1215BU)
+
 [HYP1376BUR - Accelerate Your Hybrid Cloud with VMware Cloud on AWS: What???s New](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1376BUR)
+
 [HYP1377BU - VMware Cloud on AWS Security and Compliance Details](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1377BU)
+
 [HYP1451BU - Service Overview for VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1451BU)
+
 [HYP1496BU - A Practitioner???s Guide to Migrating Workloads to VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1496BU)
+
 [HYP1499BU - Introducing VMware Cloud Provider Pod](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1499BU)
+
 [HYP1517BU - Picking Up the Pieces and Recovering in the Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1517BU)
+
 [HYP1803BU - Delivering Custom Services Through vCloud Director Extensibility](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1803BU)
+
 [HYP1810PU - Ask the Cloud Experts](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1810PU)
+
 [HYP1950BU - Navigating Hybrid Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1950BU)
+
 [HYP1969BU - Migrations Made Easy on the IBM Cloud ... Deep Breath, Focus, Go!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1969BU)
+
 [HYP1994BU - Developer Automation 101: From vSphere On Premises to VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1994BU)
+
 [HYP2048BU - VMware Cloud on AWS: Live, Next-Gen Integrations for Your Next-Gen Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2048BU)
+
 [HYP2060BU - Multitenant Managed Service Provider Platform for VMware Cloud Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2060BU)
+
 [HYP2145BUS - Hybrid cloud architecture design and best practices for VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2145BUS)
+
 [HYP2211BU - Getting the Most out of Your VMware Cloud on AWS SDDC](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2211BU)
+
 [HYP2228BU - Redefining Hybrid Cloud Management with vCenter Hybrid Linked Mode](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2228BU)
+
 [HYP2379BU - Storage in VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2379BU)
+
 [HYP2445BU - From On Premises to Beyond](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2445BU)
+
 [HYP2470BU - Quickly Getting the Most out of Your VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2470BU)
+
 [HYP2697PU - VMware Cloud on AWS Customer Panel](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2697PU)
+
 [HYP2723BU - Automate Hosted Private Clouds Everywhere Using VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2723BU)
+
 [HYP2817QU - Understanding the TCO Benefits of VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2817QU)
+
 [HYP2861BU - Multi Cloud Architectures and Evolution: Customer Perspective ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2861BU)
+
 [HYP2982BU - GenPro: Leveraging VMware Cloud on AWS and Faction for Disaster Recovery](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2982BU)
+
 [HYP3003BUS - Hello, You Had Me at Infrastructure as Code: Hybrid SDDC Cloud Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3003BUS)
+
 [HYP3019BU - VMware Site Recovery: DR-as-a-Service with VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3019BU)
+
 [HYP3024QU - Software-Defined, Hybrid, and Distributed: Welcome to the VMware Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3024QU)
+
 [HYP3025BU - Teaching Old Dogs New Tricks: High Availability for VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3025BU)
+
 [HYP3061QU - Seamless, Large Scale Workload Migrations to the IBM Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3061QU)
+
 [HYP3300BU - Public Cloud: A Critical Component of Your Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3300BU)
+
 [HYP3326BU - Cloud Provider Transformation with vCloud Director, NSX, and vRealize Suite](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3326BU)
+
 [HYP3694BUS - Disaster Recovery with Lenovo ThinkAgile VX and VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3694BUS)
+
 [HYP3696BUS - Simplify operations with machine learning for secondary data and apps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3696BUS)
+
 [HYP3704BUS - Veeam and VMware - Intelligent Data Management for the Hybrid World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3704BUS)
+
 [HYP3705BUS - Improving App Performance and Protection for VMware: NVMe, Cloud and Beyond](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3705BUS)
+
 [HYP3714PUS - Trusted Hybrid Cloud???NIST???s Trusted Cloud Building Block & Ref Architecture](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3714PUS)
+
 [HYP3715BUS - Periodic Backup is Dead! Hello Zerto 7](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3715BUS)
+
 [HYP3720BUS - Automatic Failover to AWS When a Wildfire Approaches Your Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3720BUS)
+
 [HYP3733BUS - Milliseconds Matter: Optimize Cloud Applications Through Network Control](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3733BUS)
+
 [HYP3734BUS - Applications w/o Borders Best Execution Venue for your Cloud Application](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3734BUS)
+
 [HYP3736BUS - Practical Guide for Delivering Advanced Security at Scale & Speed in SDDCs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3736BUS)
+
 [HYP3827BUS - How Advanced Threat Intelligence Can Protect Your Data](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3827BUS)
+
 [HYP3828PUS - Deliver Real Value in your Data-Driven Enterprise with Multi-Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3828PUS)
+
 [HYP3829BUS - Address Disaster Recovery & Backup Needs: Physical, Virtual, & Multi-Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3829BUS)
+
 [HYP3846BUS - Meeting Cloud First, App First demands with F5 and VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3846BUS)
+
 [HYP3853PU - IBM Presents: FREESTYLIN??? THE CLOUD with Tony Hawk and Rodney Mullen ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3853PU)
+
 [HYP3870BUS - Artificial Intelligence - The Underpinning of Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3870BUS)
+
 [HYP3879BUS - Clear-cut Resiliency for VMware and AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3879BUS)
+
 [HYP3880BUS - Instant business value and protection with AWS and VMware hybrid solution](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3880BUS)
+
 [HYP3882BUS - A Hybrid Journey to Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3882BUS)
+
 [HYP3920BUS - VMware Cloud on AWS adoption in the enterprise](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3920BUS)
+
 [HYP7472QU - Accessing External Storage on VMware Cloud on AWS ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP7472QU)
+
 [LDT1873BU - A Peek into the Future of VMware IT???s Multi-Cloud Strategy ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1873BU)
+
 [LDT1940BU - Digital Transformation in Action: From Buzzword to Reality ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1940BU)
+
 [LDT2131BU - Getting IT Ready to Successfully Enable Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT2131BU)
+
 [LDT3135PU - How Your Peers are REALLY Doing in Their Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3135PU)
+
 [LDT3675BU - Status of CIO Recruitment and Leadership Traits most Desired by CEOs ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3675BU)
+
 [MGT3026BU - Building Machine Learning Services with VMware Integrated OpenStack ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3026BU)
+
 [PRV1669BU - VMware Cloud Foundation Real-World Success with Professional Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1669BU)
+
 [PRV2147BU - State of Minnesota???s Software-Defined Data Center Journey](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2147BU)
+
 [PRV3477BU - IBM and VMware Cloud Foundation: Building a Unified Hybrid SDDC Experience](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3477BU)
+
 [SAI1983BU - Security Architecture, Use Cases, and Tools with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1983BU)
+
 [VIN2572BU - What's New in vMotion: Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2572BU)
+
 [WIN3486BU - Horizon 7 on VMware Cloud on AWS: What You Need to Know](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3486BU)
+
 [WIN3489BU - Life in a Multi-Cloud World: Choosing the Right Cloud Desktop Solution](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3489BU)
+
 [WIN3493BU - Put Horizon Deployments on Autopilot with the Universal Cloud Connector](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3493BU)
 
 ## Hyper-Converged Infrastructure 
 
 [HCI1059BU - Architecting VMware Site Recovery Manager to Meet Your DR Goals](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1059BU)
+
 [HCI1099BU - Real-World Deployment Considerations with vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1099BU)
+
 [HCI1246BU - Optimizing vSAN for Performance](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1246BU)
+
 [HCI1270BU - The Power of Storage Policy-Based Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1270BU)
+
 [HCI1272BU - vSAN Data Placement and Availability](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1272BU)
+
 [HCI1330BU - Enabling Microsoft Failover Clustering with vSAN iSCSI Service](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1330BU)
+
 [HCI1468BU - Building a Business Case for HCI and VMware vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1468BU)
+
 [HCI1469BU - The Future of vSAN and Hyperconverged Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1469BU)
+
 [HCI1473BU - The vSAN I/O Path Deconstructed: A Deep Dive into the Internals of vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1473BU)
+
 [HCI1475QU - Demystifying vSAN Management for the Traditional Storage Administrator](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1475QU)
+
 [HCI1476BU - Mixed-Workload Versus Single-Purpose vSAN Clusters](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1476BU)
+
 [HCI1477BU - New Ways to Use vRealize Operations and Log Insight for vSAN Environments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1477BU)
+
 [HCI1552BU - Deploying vSAN to 300 Stores in 2 Weeks: An Automation Story](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1552BU)
+
 [HCI1583BU - vSAN Myth Busters: Busting the Common Misconceptions About vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1583BU)
+
 [HCI1603BU - Tech Preview of vSAN Data Protection: Safeguarding VM Data on vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1603BU)
+
 [HCI1615PU - vSAN Technical Customer Panel on vSAN Experiences](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1615PU)
+
 [HCI1691BU - Architecting at the Tactical Edge with VMware vSAN and vRealize](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1691BU)
+
 [HCI1705BU - Data Protection in VMware Hybrid Clouds](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1705BU)
+
 [HCI1768BU - What's New in vSAN: Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1768BU)
+
 [HCI1769BU - We Got You Covered: Top Operational Tips from vSAN Support Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1769BU)
+
 [HCI1960BU - Why HCI Solutions Powered by vSAN Work Best for Your vSphere Environments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1960BU)
+
 [HCI1993BU - vSAN Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1993BU)
+
 [HCI2001BU - Best Practices for Deploying DataStax Workloads using vSAN Host Affinity](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2001BU)
+
 [HCI2019BU - Running SAP HANA on HCI Powered by vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2019BU)
+
 [HCI2032BU - Successful vSAN for Remote Offices and Branch Offices ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2032BU)
+
 [HCI2038BU - Best Practices for Deploying Hadoop Workloads on HCI Powered by vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2038BU)
+
 [HCI2040BU - vSAN Deployment Topology and Availability Deep Dive: What You Need to Know](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2040BU)
+
 [HCI2041BU - vSAN Encryption Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2041BU)
+
 [HCI2052BU - Sizing Your HCI Environment: How To Do It Correctly and Accurately](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2052BU)
+
 [HCI2053BU - Hitting Refresh with HCI for Better Performance and Less Complexity](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2053BU)
+
 [HCI2061BU - Forget Click, Click, Click: Manage vSAN at Scale with PowerCLI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2061BU)
+
 [HCI2088BU - vSAN Stretched Clusters Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2088BU)
+
 [HCI2103BU - Choosing the Right HCI Solution in the Multi-Cloud Era](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2103BU)
+
 [HCI2107QU - Back to Basics: Why HCI? Why Now?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2107QU)
+
 [HCI2110BU - Top Reasons Why vSAN Is the Best Hyper-Converged Solution](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2110BU)
+
 [HCI2164BU - HCI Management, Current and Future](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2164BU)
+
 [HCI2180BU - vSAN Support Insight: Inside Out](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2180BU)
+
 [HCI2208BU - vSAN Hardware Guidance on Performance and Configuration](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2208BU)
+
 [HCI2427BU - Managing vSAN Resiliency and Performance at Scale](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2427BU)
+
 [HCI2474BU - Site Recovery Manager 8.1: What's New?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2474BU)
+
 [HCI2476BU - Tech Preview: RDMA and Next-Gen Storage Technologies for vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2476BU)
+
 [HCI2501BU - Accelerating Digital Transformation with InterSystems IRIS and vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2501BU)
+
 [HCI2513QU - Using vSAN Native Data Protection in the Real World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2513QU)
+
 [HCI2522BU - Getting Started with vSAN Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2522BU)
+
 [HCI2550PU - Leveraging Virtual Volumes (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2550PU)
+
 [HCI2617BU - Best Practices for Deploying Business-Critical Oracle Workloads on vSAN HCI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2617BU)
+
 [HCI2681BU - The Latest and Greatest with VMware vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2681BU)
+
 [HCI2736BU - Lessons Learned from Real-World vSAN Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2736BU)
+
 [HCI2810BU - Virtual Volumes (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2810BU)
+
 [HCI2909QU - VMs on vSAN - An end to end view](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2909QU)
+
 [HCI2993BU - The Story of How Deloitte Migrated to vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2993BU)
+
 [HCI3000BU - Extreme Performance Series: How To Estimate vSAN Performance](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3000BU)
+
 [HCI3041BU - Introducing Scalable File Storage on vSAN with Native File Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3041BU)
+
 [HCI3104BU - vSAN Hosted POC: The Smoothest and Fastest Way to Test vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3104BU)
+
 [HCI3149BU - Conquer Your Storage Demands with vSAN and Intel Technologies](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3149BU)
+
 [HCI3291BU - vSAN: Data Placement Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3291BU)
+
 [HCI3331BU - Better Storage Utilization with Space Reclamation/UNMAP](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3331BU)
+
 [HCI3452BU - Achieving a GDPR-Ready Architecture Leveraging VMware vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3452BU)
+
 [HCI3691PUS - Customer Panel ??? Hyper-converged IT Enabling Agility and Innovation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3691PUS)
+
 [HCI3695BUS - AutoNation modernizes VMware backup/recovery to accelerate business growth](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3695BUS)
+
 [HCI3697BUS - Enhance your vSphere and vSAN implementations w/ Persistent Memory and SSDs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3697BUS)
+
 [HCI3707BUS - Infrastructure Matters: From Modernizing Servers to a VMware cloud on HCI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3707BUS)
+
 [HCI3781BUS - Cisco HyperConverged Infrastructure for the Multicloud era](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3781BUS)
+
 [HCI3819QU - Get the Edge on vSAN : Innovating Hyper-Converged Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3819QU)
+
 [HCI3855BU - How Virtualization & SDDC Help Drive Modernization in Manufacturing ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3855BU)
+
 [HYP2752BU - Our New World: Hyper-Converged and Software Defined](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2752BU)
 
 ## IoT 
 
 [HYP3822BU - VMware Data Protection Simplicity Meets Power: Converged, Cloud and Beyond](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3822BU)
+
 [IOT1746QU - Can Blockchain Be Used as a Tool to Secure the IoT?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT1746QU)
+
 [IOT2593BU - Project Dimension - The Easy Button for Edge Computing](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT2593BU)
+
 [IOT2812BU - Design IoT with Security in Mind Using VMware Pulse IoT and NSX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT2812BU)
+
 [IOT3165BU - AI in the PaaS Lane: Toshiba and Virtustream Combine AI and Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3165BU)
+
 [IOT3541BU - Take Your Hybrid Cloud Strategy to the Edge with VMware Solutions](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3541BU)
+
 [IOT3549QU - Make Friends with Your OT Department: The Prerequisite to IoT Success](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3549QU)
+
 [IOT3550PU - Customers Who Take Control of the Edge with VMware Pulse IoT Solutions](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3550PU)
+
 [IOT3553BU - IoT Innovation for Reducing Carbon Footprint in Facilities](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3553BU)
+
 [IOT3563BU - Surveillance and IoT Helping Keep the World Safe](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3563BU)
+
 [IOT3679BU - Is Your Infrastructure IoT Ready?  Dell IoT Technologies is Here to Help](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3679BU)
+
 [IOT3680BU - Deploy, Manage, and Get Value from IOT with Microsoft, Dell and VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3680BU)
+
 [IOT3872BUS - FUJITSU Mobility Solutions for Connected Vehicles](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3872BUS)
+
 [LDT1882PU - Get the Creative Juices Flowing: A Discussion on Enterprise Innovation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1882PU)
 
 ## Leading Digital Transformation 
 
 [CTO3823BU - Kinetic Infrastructure:?? The Journey to a Fully Composable Datacenter ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3823BU)
+
 [LDT1121BU - How an Enterprise Data Warehouse Makeover Transformed VMware???s Business](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1121BU)
+
 [LDT1231PU - People Like You: Strategies and Solutions for Government IT Transformation ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1231PU)
+
 [LDT1252PU - A Fly on the Wall: VMware IT Staff Meeting](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1252PU)
+
 [LDT1497BUR - 5 Things Your Boss???s Boss Secretly Wishes You Would Tell Them ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1497BUR)
+
 [LDT1541BU - Attracting and Retaining Talent via a Technology for Social Good Program](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1541BU)
+
 [LDT1758BU - Building a Compelling Business Case for Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1758BU)
+
 [LDT1883BU - How Machine Learning and AI Are Transforming VMware???s IT Operations ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1883BU)
+
 [LDT1895BU - Culture Shift: The Heavy Lifting Behind Digital Transformation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1895BU)
+
 [LDT1899BU - Embracing a DevOps Cloud Operational Model for Private Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1899BU)
+
 [LDT1907BU - Achieving Happiness: Building Your Brand and Your Career](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1907BU)
+
 [LDT2188PU - Digital Workspace Transformation Best Practices from the Field](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT2188PU)
+
 [LDT2207BU - Destination Digital: Plot a Course for Transformation with Cloud Migration](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT2207BU)
+
 [LDT2647PU - Top 7 Considerations IT Leaders Miss in Their Cloud Strategy: 2018 Edition](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT2647PU)
+
 [LDT2787PU - Rethinking Financial Services: Adapting to a Digital Economy](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT2787PU)
+
 [LDT3196BU - Top 5 Operational Changes Organizations Overlook When Implementing EUC](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3196BU)
+
 [LDT3685BUS - Hybrid IT: HPE???s composable, software-defined, dynamic datacenter vision](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3685BUS)
+
 [LDT3688BUS - Examining the Best Practices for Executing Your Multi-Cloud Environment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3688BUS)
+
 [LDT3698BUS - Building your Enterprise cloud piece by piece](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3698BUS)
+
 [LDT3700BUS - DR - Protect all of your Workloads & Fight Back Against Cyber Threats](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3700BUS)
+
 [LDT3708PUS - Is your DR/BC Strategy Keeping Up with Changing Business Needs?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3708PUS)
+
 [LDT3835BUS - Reimagining the Future of Work in a Mobile First World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3835BUS)
+
 [LDT3919BUS - Expanding your Hybrid IT with VMC on AWS.](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT3919BUS)
+
 [NFV3917PU - AT&T and VMware???s Virtual Cloud Network: Learn how AT&T is using VeloCloud???s SD-WAN and AirWatch](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV3917PU)
 
 ## NFV 
 
 [NFV1307BU - NSX SD-WAN by VeloCloud for Service Providers on the vCloud NFV Platform](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV1307BU)
+
 [NFV1309BU - 5G Readiness: The Importance of Network Slicing & Service Function Chaining](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV1309BU)
+
 [NFV1315BU - Distributed OpenStack Platform for Telco Use Cases: MEC and PoP](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV1315BU)
+
 [NFV2220BU - Service Providers Love VMware Integrated OpenStack. Here's Why](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV2220BU)
+
 [NFV2917BU - Breaking the Virtual Speed Limit: Data Plane Performance Tuning](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV2917BU)
 
 ## Office of the CTO 
 
 [CTO1189BU - Next-Gen Multi-Cloud Architecture for Machine Learning](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1189BU)
+
 [CTO1875BU - Quantum Supremacy: Basics, Outlook, and Security Implications](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1875BU)
+
 [CTO1901BU - Inside VMware's Innovation Engine](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1901BU)
+
 [CTO1917BU - Emerging Technologies in the Real World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1917BU)
+
 [CTO2161BU - Smart Placement of Workloads in Tomorrow's Distributed Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2161BU)
+
 [CTO2325BU - Network Slicing: Virtual Network and Service Orchestration for 5G and IoT](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2325BU)
+
 [CTO2390BU - Virtualize and Accelerate HPC/Big Data with SR-IOV, vGPU and RDMA](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2390BU)
+
 [CTO2657BU - Evolution of VMware???s Microgrid: The Largest Solar Deployment in Palo Alto](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2657BU)
+
 [CTO2816BU - How Open Source Is Bringing Serverless On Premises](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2816BU)
+
 [CTO2860BU - Persistent Memory Deep Dive: HW and SW Architecture for VMware Technologies](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2860BU)
+
 [CTO3496PU - VMware CTO Panel: What's Over the Horizon? ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3496PU)
+
 [CTO3509BU - Embracing the Edge: Automation, Analytics, and Real-Time Business](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3509BU)
+
 [CTO3584BU - An Introduction to VMware???s Blockchain Technologies](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3584BU)
+
 [CTO3650BU - Choose Optimism](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3650BU)
+
 [CTO3693BUS - Optimize your Virtualized Environment with Hardware Accelerators  ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3693BUS)
 
 ## Private Cloud 
 
 [PRV1101BU - VxRack SDDC Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1101BU)
+
 [PRV1161BU - Compliance for the Public Sector and Private Industry  ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1161BU)
+
 [PRV1254BU - A Guided Tour of the VMware Cloud Foundation User Experience](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1254BU)
+
 [PRV1277BU - Cloud Foundation and Composable Infrastructure: The Best of Both Worlds](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1277BU)
+
 [PRV1337BU - VMware Cloud Foundation: Future Innovations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1337BU)
+
 [PRV1424BU - Case Study: Mission-Critical SDDC for the Finance Industry](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1424BU)
+
 [PRV1429BU - VMware Cloud Foundation Simplifies Disaster Protection](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1429BU)
+
 [PRV1431BU - An Introduction to VMware Validated Designs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1431BU)
+
 [PRV1459BU - Strategies for Workload Mobility with VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1459BU)
+
 [PRV1460QU - VMware Enterprise Readiness:SDDC Cross-Product Quality and Interoperability](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1460QU)
+
 [PRV1463BU - Building the Ultimate Hybrid Cloud with VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1463BU)
+
 [PRV1494BU - Path to SDDC Transformation: Western Digital](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1494BU)
+
 [PRV1598BU - Cloud Foundation: Reducing Debt and Improving Agility at Xavier University](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1598BU)
+
 [PRV1765BU - Advanced Operations for your VMware Cloud Foundation Based Private Cloud ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1765BU)
+
 [PRV1766BU - Workload Automation in your VMware Cloud Foundation Based Private Cloud ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1766BU)
+
 [PRV1802BU - Imperative Design Considerations for the Software-Defined Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1802BU)
+
 [PRV1889BU - 176 Nodes, No Problem: A Virtual Desktop Story](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1889BU)
+
 [PRV1910BU - Building the Modern Data Center: A Supercharged Enterprise SDDC Deployment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1910BU)
+
 [PRV1933BUR - VMware Cloud Foundation Architecture Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1933BUR)
+
 [PRV1959BU - Building a Successful Business Case with VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1959BU)
+
 [PRV2113BU - Quick and Easy Certificate Replacement for VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2113BU)
+
 [PRV2121BU - Composable Infrastructure Innovations: Cloud Foundation and HPE Synergy](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2121BU)
+
 [PRV2190BU - Using VMware Validated Design with All Flash Array to Deliver a True Private Cloud Experience](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2190BU)
+
 [PRV2192QU - SDDC Best Practices: Using VMware Validated Designs and Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2192QU)
+
 [PRV2197QU - VxRail and VMware Validated Designs: Chocolate and Peanut Butter?  ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2197QU)
+
 [PRV2201QU - Introduction to VMware Cloud Foundation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2201QU)
+
 [PRV2347BU - What???s New with Cloud Foundation: The Simplest Way to Build a Hybrid Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2347BU)
+
 [PRV2369BUS - How to Cut Through Multi-cloud Complexity and Tap into Cloud Value Faster](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2369BUS)
+
 [PRV2623BU - NSX-T Enabled Workload Domains: The Validated Designs/Cloud Foundation Way](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2623BU)
+
 [PRV2747BU - VMware Validated Design for SDDC: Architecture and Design](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2747BU)
+
 [PRV2797BU - VMware Validated Design Day Two Operations in Practice](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2797BU)
+
 [PRV2911BUR - VMware Validated Designs Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2911BUR)
+
 [PRV2925PU - VMware Validated Designs: Ask Us Anything!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV2925PU)
+
 [PRV3282PU - Deploying VVD, Success Stories from the Field](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3282PU)
+
 [PRV3401BU - Automate Lifecycle Management End-to-End](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3401BU)
+
 [PRV3462BU - VMware Validated Designs and Dell VxRail HCI: Better Together](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3462BU)
+
 [PRV3670BU - Standardized, Automated and Adaptive: The Future of Private Cloud is Here ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3670BU)
+
 [PRV3709BUS - Virtustream Enterprise Cloud with VMware Cloud Foundation ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3709BUS)
+
 [PRV3916BUS - Lessons Learned: Production Apps using Containers, ElasticSearch and Spark](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV3916BUS)
+
 [SAI2077BU - Context-Aware Micro-Segmentation with NSX Data Center ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2077BU)
 
 ## Secure Application Infrastructure 
 
 [SAI1133BU - How to Design Multi-layered Security with NSX Data Center ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1133BU)
+
 [SAI1217BU - How VMware IT uses VMware NSX Data Center Micro-Segmentation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1217BU)
+
 [SAI1851BU - Securing Horizon and Citrix End-User Computing with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1851BU)
+
 [SAI2014PU - Customer Panel on VMware NSX Data Center for Security](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2014PU)
+
 [SAI2026BU - Introduction to NSX Data Center for Security](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2026BU)
+
 [SAI2335BUS - Enabling Hybrid Cloud Security for NSX and VMWare Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2335BUS)
+
 [SAI2744BU - VMware NSX Data Center Service Insertion: Advanced Network and Security](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2744BU)
+
 [SAI2789BU - Extend micro-segmentation across virtual and physical with NSX Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2789BU)
+
 [SAI3242PU - VMware AppDefense Customer Success Stories](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3242PU)
+
 [SAI3712BUS - Ransomware Threat Recovery Using Rubrik Polaris](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3712BUS)
+
 [SAI3761BUS - Security & Multi-Tenancy ??? Tips and Best Practices for VMware-based Clouds](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3761BUS)
+
 [SAI3836BUS - Assure Secure and Successful Deployments of NSX with NETSCOUT Visibility](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3836BUS)
+
 [SAI3837BUS - How Carriers Gain Visibility in the Hybrid/Multi-Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3837BUS)
+
 [SAI4777PU - CPU Security Vulnerabilities Q&A Panel](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI4777PU)
 
 ## Security and Experience 
 
 [ACC2162PU - Drive Workspace-as-a-Service and Security Transformation with Workspace ONE](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2162PU)
+
 [ACC2717BU - Minimize Security Risk and Achieve Zero Trust with Workspace ONE](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2717BU)
+
 [ACC2945BU - Mobile-First Digital Transformation is All About the Apps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2945BU)
+
 [ACC3255BU - Workspace ONE: The Art of the Possible](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC3255BU)
+
 [HYP1923BU - Building Hybrid Cloud with Horizon 7 on VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1923BU)
+
 [WIN1236BU - The Secret Sauce Behind VMware???s Internal Horizon Desktop Deployments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN1236BU)
+
 [WIN2686BU - Amp Up Your VDI Security and Performance with NSX and Horizon](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2686BU)
+
 [WIN3048BU - What???s New with Horizon Cloud on Microsoft Azure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3048BU)
+
 [WIN3100BU - Understand and Leverage the Latest Enhancements with Blast Extreme](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3100BU)
+
 [WIN3213BU - Leverage intelligence and monitoring for virtual desktops and apps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3213BU)
+
 [WIN3480BU - Beyond Horizon 7: Moving to a Digital Workspace with Workspace ONE](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3480BU)
+
 [WIN3483BU - Horizon Cloud on Azure: Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3483BU)
+
 [WIN3485BU - Horizon Cloud on Hosted Infrastructure: Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3485BU)
+
 [WIN3492BU - JMP: The Easy Button for Delivering and Managing Virtual Desktops and Apps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3492BU)
+
 [WIN3503PU - Customer Panel: What You Need to Know About Deploying VDI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3503PU)
+
 [WIN3523BU - Troubleshooting Your Horizon 7 Deployment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3523BU)
+
 [WIN3530PU - EUC Champions Panel: Everything You Were Afraid to Ask About VDI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3530PU)
 
 ## Virtualized Applications 
 
 [VAP1088BU - App Failover on VMware Cloud on AWS Protected by LicenseFortress](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1088BU)
+
 [VAP1095BU - Virtualizing and Tuning Distributed Application Platforms](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1095BU)
+
 [VAP1228PU - vSphere UNIX to Virtual Linux Migration Service: Customer Success Stories](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1228PU)
+
 [VAP1263QU - It???s a Data-Driven World: How to Choose Your Right Data Platform](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1263QU)
+
 [VAP1296BU - Database Virtualization (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1296BU)
+
 [VAP1360BU - Streamlining Business-Critical Oracle Workloads on a VMware SDDC](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1360BU)
+
 [VAP1425BU - Performance Deep Dive for Demanding Virtual Database Servers](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1425BU)
+
 [VAP1448BU - Monitoring Business-Critical Applications: Doing It Right](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1448BU)
+
 [VAP1454BU - Faster Home Loans on VMware vSphere Mean More Financial Services Revenue](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1454BU)
+
 [VAP1492BU - Performance of SQL Server, Oracle, and SAP Workloads in VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1492BU)
+
 [VAP1509BU - Getting Started with Big Data on vSphere: A Practical Guide for Admins](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1509BU)
+
 [VAP1593QU - New Architectures for Big Data/Machine Learning on VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1593QU)
+
 [VAP1620BU - Improve App Performance with Micro-Segmentation and Distributed Routing](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1620BU)
+
 [VAP1820BU - SAP HANA TDI Phase 5: Greater Flexibility in Sizing VMs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1820BU)
+
 [VAP1898BU - Virtualize Active Directory the Right Way](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1898BU)
+
 [VAP1900BU - High Performance Big Data and Machine Learning on VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1900BU)
+
 [VAP2010BU - Architecting and Deploying Virtualized HPC Clusters](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2010BU)
+
 [VAP2049BU - Deep Dive: Optimize Your Virtualized SAP Ecosystem](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2049BU)
+
 [VAP2056BU - Extreme Consolidation???Virtualization and Oracle: Can't We All Get Along](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2056BU)
+
 [VAP2134BU - Elastic AI Infrastructure on vSphere: Virtual GPU and FPGA with Bitfusion](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2134BU)
+
 [VAP2172BU - Automation of SAP Deployments in the VMware SDDC](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2172BU)
+
 [VAP2294QU - SAP in the Clouds](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2294QU)
+
 [VAP2298BU - The Top Configuration Concept Issues in an SAP HANA on vSphere Environment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2298BU)
+
 [VAP2340BU - Driving Organizational Value by Virtualizing AI/ML/DL and HPC Workloads](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2340BU)
+
 [VAP2547BU - Licensing Oracle and SQL Server on vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2547BU)
+
 [VAP2682BU - Heard About Mars vs. Oracle? Learn About Oracle Audits from the Experts](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2682BU)
+
 [VAP2710BU - Migrating Critical Oracle Workloads to the Cloud Using VMware Cloud on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2710BU)
+
 [VAP2760BU - Machine Learning & Deep Learning on vSphere Using Nvidia Virtualized GPUs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2760BU)
+
 [VAP2807BU - Interconnect Acceleration for Machine Learning, Big Data, and HPC](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2807BU)
+
 [VAP2874BU - The Old School Cloud Is No More: Running Your Microsoft Applications on AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP2874BU)
+
 [VAP3118BU - vNUMA and pNUMA: Save Your SQL from Certain Doom-A](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP3118BU)
+
 [VAP3238BU - Automate Oracle Security Using NSX and vRealize Automation at Boeing](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP3238BU)
+
 [VAP3687BU - Highly available Microsoft SQL Server on VMware vSphere. Doing IT right](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP3687BU)
+
 [VAP3757PU - Running SAP in the Hybrid Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP3757PU)
+
 [VIN2124BU - How VMware vSphere and NVIDIA GPUs Accelerate Your Organization](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2124BU)
 
 ## Virtualized Infrastructure 
 
 [MGT1069QU - Tips on Troubleshooting Nagging Storage Issues](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1069QU)
+
 [VAP3915BUS - Best Practices for Snapshot Heavy Environments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP3915BUS)
+
 [VIN1170BU - The Old Switcheroo: Migrate from VSS to VDS with Zero Downtime](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1170BU)
+
 [VIN1180BU - How VMware IT Upgraded to VMware vSphere 6.7 Without End-User Impact](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1180BU)
+
 [VIN1249BU - vSphere Clustering Deep Dive, Part 1: vSphere HA and DRS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1249BU)
+
 [VIN1253BU - How VMware IT Virtualizes Voice/Video/Conferencing Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1253BU)
+
 [VIN1275BU - Infrastructure on Demand with VMware and Cisco UCS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1275BU)
+
 [VIN1293BU - Ensure Maximum Uptime and Performance of Your vCenter Server Appliance](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1293BU)
+
 [VIN1303BU - vSphere Security Deep Dive: Supporting TPM and Virtual TPM 2.0](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1303BU)
+
 [VIN1304BU - Deep Dive: Supporting Microsoft Virtualization-Based Security with vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1304BU)
+
 [VIN1305BU - vSphere Platform Security Update](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1305BU)
+
 [VIN1370BU - How to Prepare for VCP 6 ??? Data Center Virtualization](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1370BU)
+
 [VIN1372BU - vSphere Performance Troubleshooting and Root Cause Analysis](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1372BU)
+
 [VIN1373BU - vSphere Performance Troubleshooting and Root Cause Analysis](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1373BU)
+
 [VIN1565BU - Picking the Right DR Tool for the Job: A Service Provider Perspective](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1565BU)
+
 [VIN1622QU - Dear IT, You Gotta Modernize Your Data Center. Let vSphere Help.](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1622QU)
+
 [VIN1633BU - Introducing vSphere Platinum and vSphere 6.7 Update 1](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1633BU)
+
 [VIN1641BU - Focus, Plan, and Execute: A Deep Dive into Your vSphere Upgrade Journey](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1641BU)
+
 [VIN1709BU - Mac and Linux Users, Don't Despair: PowerCLI Is There!](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1709BU)
+
 [VIN1735BU - Clustering Deep Dive 2: Quality Control with DRS and Network I/O Control](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1735BU)
+
 [VIN1738BU - vSphere Host Resources Deep Dive: Part 3](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1738BU)
+
 [VIN1759BU - Extreme Performance Series: vCenter Performance Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1759BU)
+
 [VIN1782BU - Extreme Performance Series: vSphere Compute and Memory Schedulers](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1782BU)
+
 [VIN1790BU - vSphere Update Manager (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1790BU)
+
 [VIN1859BU - vSphere SSO Domain Architecture Unplugged](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1859BU)
+
 [VIN1909BU - End of Support: Taking Advantage of the vSphere Lifecycle to Transform](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1909BU)
+
 [VIN1972BU - Mastering the VMware Tools Lifecycle in Your VMware vSphere Data Center](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1972BU)
+
 [VIN1991BU - Technical Overview of VMware ESXi Patching and Upgrading](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1991BU)
+
 [VIN1992BU - A Deep(https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN1992BU)
+
 [VIN2047BU - Persistent Memory with vSphere 6.7: Primary Use Cases and User Workflow](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2047BU)
+
 [VIN2062BU - vSphere Networking: What???s New and What???s Next](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2062BU)
+
 [VIN2067BU - Accelerating &Optimizing Machine Learning on vSphere leveraging NVIDIA GPU](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2067BU)
+
 [VIN2085BU - Accelerating Performance of Mission-Critical Workloads with PVRDMA](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2085BU)
+
 [VIN2183BU - Extreme Performance Series: vSphere PMEM = Storage at Memory Speed](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2183BU)
+
 [VIN2186BU - What???s New with vSphere 6.7 Core Storage](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2186BU)
+
 [VIN2256BU - Tech Preview: The Road to a Declarative Compute Control Plane](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2256BU)
+
 [VIN2259BU - vSphere DRS Enhancements: vSphere 6.7 and Beyond](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2259BU)
+
 [VIN2287PU - Understand and Influence NVMe Adoption in the ESX Storage Stack](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2287PU)
+
 [VIN2404BU - Changes to Hardware Health Monitoring in vSphere Stack](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2404BU)
+
 [VIN2405BU - Journey to vCenter Server Availability and Recoverability](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2405BU)
+
 [VIN2408PU - Virtualizing MacOS at Scale for iOS DevOps](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2408PU)
+
 [VIN2410BU - Nerds with Appliances: vCenter Server Migration](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2410BU)
+
 [VIN2416BU - Core Storage Best Practices](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2416BU)
+
 [VIN2446BU - Building a Unified Architecture in a Multi-Vendor World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2446BU)
+
 [VIN2463BU - Deciphering Successful vSphere Certificate Implementation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2463BU)
+
 [VIN2527BU - Top 10 Automation Requests and How You Can Save Time](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2527BU)
+
 [VIN2540BU - ESXTOP Technical Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2540BU)
+
 [VIN2626BU - VMware REST APIs, Python, and You: A Coding Primer](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2626BU)
+
 [VIN2642BU - Don't Sleep on RESTful APIs for vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2642BU)
+
 [VIN2645QU - Virtualization 101](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2645QU)
+
 [VIN2650BU - Designing for the Unexpected: Delivering IT on a Boat with VMware Horizon](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2650BU)
+
 [VIN2652BU - What's New with vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2652BU)
+
 [VIN2660BUR - Make Your vSphere 6.7 Upgrade Bulletproof ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2660BUR)
+
 [VIN2661BU - Start Automating All the Things with PowerCLI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2661BU)
+
 [VIN2664BU - Preparing to Upgrade Your vSphere Environment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2664BU)
+
 [VIN2677BU - Extreme Performance Series: Performance Best Practices](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2677BU)
+
 [VIN2685BU - Extreme Performance Series: Benchmarking 101](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2685BU)
+
 [VIN2688BU - Cut Your Support Request Time with These Tips](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2688BU)
+
 [VIN2762BU - ESXi Security ??? A Step Ahead ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2762BU)
+
 [VIN2863QU - Business Value of Data Center Virtualization and Private Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2863QU)
+
 [VIN2905PU - Fireside Chat: Experience with vSphere Client](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2905PU)
+
 [VIN2942QU - Transitioning from the vSphere Web Client to the vSphere Client](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2942QU)
+
 [VIN2949BU - Best Practices for Virtual Networking](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2949BU)
+
 [VIN2963BU - Intel's Exciting Persistent Memory Technologies and VMware vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2963BU)
+
 [VIN2992BU - vSphere Client Roadmap: Past, Present, and Future](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2992BU)
+
 [VIN3032PU - Meet the vSphere Experts Panel](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3032PU)
+
 [VIN3257BU - Troubleshoot and Assess the Health of VMware Environments with Free Tools](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3257BU)
+
 [VIN3327BU - Documenting Your Virtual Infrastructure with PowerShell and PowerCLI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3327BU)
+
 [VIN3353BU - Art of Managing SSL Certificates in vSphere: Troubleshooting, Tip & Tricks](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3353BU)
+
 [VIN3354BU - Hot Now: Original Glazed Virtual Volumes](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3354BU)
+
 [VIN3396BU - A Deep Dive into Storage Policy-Based Management for Managing SDS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3396BU)
+
 [VIN3456BU - Unpacking ESXi - What's New in 6.7  and What's Next ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3456BU)
+
 [VIN3684BUS - Storage Infrastructure for VMware: Software Defined to Workload Optimized](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3684BUS)
+
 [VIN3703BUS - What???s new in Veeam Availability Suite 9.5 Update 4](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3703BUS)
+
 [VIN3739BUS - Simplifying Data Protection Across Hybrid Environments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3739BUS)
+
 [VIN3762BUS - Best Practices for Kubernetes on VMware vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3762BUS)
+
 [VIN3776BUS - Virtual Volumes Deep Dive with Pure Storage](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3776BUS)
+
 [VIN3820QU - Transforming Virtual Infrastructure with All-Flash Storage](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3820QU)
+
 [WIN2006BU - Optimizing VMware Horizon and NVIDIA vGPU for the Best VDI User Experience](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2006BU)
+
 [WIN2384BU - Solve Your Citrix Problems with VMware Technologies](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2384BU)
+
 [WIN2537BU - What's New in Horizon 7](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2537BU)
+
 [WIN3451BUR - Architecting Horizon 7 Enterprise: The Official Reference Architecture](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3451BUR)
 
 ## Windows Delivery 
 
 [WIN1428BU - The Future of VMware Fusion and Workstation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN1428BU)
+
 [WIN1717BU - Design Deep Dive: Cloud Burst with Horizon 7 on VMware Cloud Powered by AWS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN1717BU)
+
 [WIN1824QU - How to Deploy a Desktop Solution in One Hour with Horizon Cloud on Azure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN1824QU)
+
 [WIN3450BU - Best Practices for Deploying Horizon on vSAN and VxRail](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3450BU)
+
 [WIN3850BUS - Deliver the Agile Data Center with VMware Horizon and NVIDIA Virtual GPU ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3850BUS)
