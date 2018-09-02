@@ -3,9 +3,9 @@
 [William Lam](https://github.com/lamw/vmworld2018-session-urls) has built a nice summary list of all VMworld US 2018 Breakout session with the respective video playback URLs. So I just transformed that URLs into the final .mp4 so you can download the sessions easily directly from here using DownThemAll! (I've used WaterFox as it does support the extension still)
 
 Total Sessions: 585
-Total Sessions Posted: 570
+Total Sessions Posted: 569
 
-Total Sessions NOT posted: 15
+Total Sessions NOT posted: 16
 
 ## Branch and Edge 
 
