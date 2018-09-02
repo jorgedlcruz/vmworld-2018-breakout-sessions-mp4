@@ -169,7 +169,7 @@ Total Sessions NOT posted: 15
 
 [NET1128BU - Logical Routing Deep Dive on NSX Data Center for vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1128BU.mp4)
 
-[NET1283QU - How VMware IT Leverages VMware NSX for Large-Scale, Self-Service IaaS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1283QU.mp4)
+NET1283QU - How VMware IT Leverages VMware NSX for Large-Scale, Self-Service IaaS - Not available
 
 [NET1285BU - The Future of Networking and Security with VMware NSX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET1285BU.mp4)
 
@@ -253,8 +253,7 @@ Total Sessions NOT posted: 15
 
 [SAI2598PU - Customer Panel on Micro-Segmentation Ops with vRealize Network Insight](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2598PU.mp4)
 
-[SAI3770BU - Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/
-[SAI3770BU.mp4)
+[SAI3770BU - Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3770BU.mp4)
 
 ## Cloud Services 
 
@@ -270,7 +269,7 @@ Total Sessions NOT posted: 15
 
 [MGT2099BU - To Infrastructure and Beyond: Infrastructure as Code with VMware](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2099BU.mp4)
 
-[MGT3918BU - Amazon RDS on VMware: Database Management Services on vSphere](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT3918BU.mp4)
+MGT3918BU - Amazon RDS on VMware: Database Management Services on vSphere - Not available
 
 [MGT4683BU - How CloudHealth Can Reduce the Cost and Complexity of Multi-cloud Operations](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT4683BU.mp4)
 
@@ -300,7 +299,7 @@ Total Sessions NOT posted: 15
 
 [CNA2141BU - Applying Software Design Patterns and Methodologies to Your IT Services](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2141BU.mp4)
 
-[CNA2755BU - Architecting PKS for Production: Lessons Learned from PKS Deployments](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2755BU.mp4)
+CNA2755BU - Architecting PKS for Production: Lessons Learned from PKS Deployments - Not Available
 
 [CNA3146BU - Technical Deep Dive: Kubernetes Networking and Security with NSX-T on PKS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA3146BU.mp4)
 
@@ -370,7 +369,7 @@ Total Sessions NOT posted: 15
 
 [END2766BU - First Look at New Dell and VMware Developments That Optimize PC Management](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2766BU.mp4)
 
-[END2811BU - Real-World Conversations with Customers Using Modern Management for MacOS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2811BU.mp4)
+END2811BU - Real-World Conversations with Customers Using Modern Management for MacOS - Not available
 
 [END2833BU - Windows as a Service: Who Moved My Cheese and How Can I Get It Back?](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/END2833BU.mp4)
 
@@ -424,7 +423,7 @@ Total Sessions NOT posted: 15
 
 [HYP1187BU - VMware Cloud on AWS: The Migration Venture](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1187BU.mp4)
 
-[HYP1211BU - A Journey to VMware Cloud on AWS for Oracle and SAP Applications](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1211BU.mp4)
+HYP1211BU - A Journey to VMware Cloud on AWS for Oracle and SAP Applications - Not Available
 
 [HYP1215BU - How VMware IT Migrated Mission-Critical Workloads to VMware Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP1215BU.mp4)
 
@@ -574,7 +573,7 @@ Total Sessions NOT posted: 15
 
 [HCI1330BU - Enabling Microsoft Failover Clustering with vSAN iSCSI Service](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1330BU.mp4)
 
-[HCI1468BU - Building a Business Case for HCI and VMware vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1468BU.mp4)
+HCI1468BU - Building a Business Case for HCI and VMware vSAN - Not available
 
 [HCI1469BU - The Future of vSAN and Hyperconverged Infrastructure](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1469BU.mp4)
 
@@ -594,7 +593,7 @@ Total Sessions NOT posted: 15
 
 [HCI1615PU - vSAN Technical Customer Panel on vSAN Experiences](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1615PU.mp4)
 
-[HCI1691BU - Architecting at the Tactical Edge with VMware vSAN and vRealize](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1691BU.mp4)
+HCI1691BU - Architecting at the Tactical Edge with VMware vSAN and vRealize - Not available
 
 [HCI1705BU - Data Protection in VMware Hybrid Clouds](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1705BU.mp4)
 
@@ -650,9 +649,9 @@ Total Sessions NOT posted: 15
 
 [HCI2522BU - Getting Started with vSAN Automation](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2522BU.mp4)
 
-[HCI2550PU - Leveraging Virtual Volumes (https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2550PU.mp4)
+[HCI2550PU - Leveraging Virtual Volumes](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2550PU.mp4)
 
-[HCI2617BU - Best Practices for Deploying Business-Critical Oracle Workloads on vSAN HCI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2617BU.mp4)
+HCI2617BU - Best Practices for Deploying Business-Critical Oracle Workloads on vSAN HCI - Not available
 
 [HCI2681BU - The Latest and Greatest with VMware vSAN](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI2681BU.mp4)
 
@@ -682,7 +681,7 @@ Total Sessions NOT posted: 15
 
 [HCI3695BUS - AutoNation modernizes VMware backup/recovery to accelerate business growth](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3695BUS.mp4)
 
-[HCI3697BUS - Enhance your vSphere and vSAN implementations w/ Persistent Memory and SSDs](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3697BUS.mp4)
+HCI3697BUS - Enhance your vSphere and vSAN implementations w/ Persistent Memory and SSDs - Not available
 
 [HCI3707BUS - Infrastructure Matters: From Modernizing Servers to a VMware cloud on HCI](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3707BUS.mp4)
 
@@ -704,7 +703,7 @@ Total Sessions NOT posted: 15
 
 [IOT2812BU - Design IoT with Security in Mind Using VMware Pulse IoT and NSX](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT2812BU.mp4)
 
-[IOT3165BU - AI in the PaaS Lane: Toshiba and Virtustream Combine AI and Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3165BU.mp4)
+IOT3165BU - AI in the PaaS Lane: Toshiba and Virtustream Combine AI and Cloud - Not available
 
 [IOT3541BU - Take Your Hybrid Cloud Strategy to the Edge with VMware Solutions](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/IOT3541BU.mp4)
 
@@ -794,7 +793,7 @@ Total Sessions NOT posted: 15
 
 [CTO1901BU - Inside VMware's Innovation Engine](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1901BU.mp4)
 
-[CTO1917BU - Emerging Technologies in the Real World](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1917BU.mp4)
+CTO1917BU - Emerging Technologies in the Real World - Not available
 
 [CTO2161BU - Smart Placement of Workloads in Tomorrow's Distributed Cloud](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO2161BU.mp4)
 
@@ -854,7 +853,7 @@ Total Sessions NOT posted: 15
 
 [PRV1889BU - 176 Nodes, No Problem: A Virtual Desktop Story](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1889BU.mp4)
 
-[PRV1910BU - Building the Modern Data Center: A Supercharged Enterprise SDDC Deployment](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1910BU.mp4)
+PRV1910BU - Building the Modern Data Center: A Supercharged Enterprise SDDC Deployment - Not available
 
 [PRV1933BUR - VMware Cloud Foundation Architecture Deep Dive](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1933BUR.mp4)
 
@@ -1104,7 +1103,7 @@ Total Sessions NOT posted: 15
 
 [VIN2067BU - Accelerating &Optimizing Machine Learning on vSphere leveraging NVIDIA GPU](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2067BU.mp4)
 
-[VIN2085BU - Accelerating Performance of Mission-Critical Workloads with PVRDMA](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2085BU.mp4)
+VIN2085BU - Accelerating Performance of Mission-Critical Workloads with PVRDMA - Not available
 
 [VIN2183BU - Extreme Performance Series: vSphere PMEM = Storage at Memory Speed](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2183BU.mp4)
 
@@ -1182,7 +1181,7 @@ Total Sessions NOT posted: 15
 
 [VIN3396BU - A Deep Dive into Storage Policy-Based Management for Managing SDS](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3396BU.mp4)
 
-[VIN3456BU - Unpacking ESXi - What's New in 6.7  and What's Next ](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3456BU.mp4)
+VIN3456BU - Unpacking ESXi - What's New in 6.7  and What's Next - Not available
 
 [VIN3684BUS - Storage Infrastructure for VMware: Software Defined to Workload Optimized](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN3684BUS.mp4)
 
@@ -1198,7 +1197,7 @@ Total Sessions NOT posted: 15
 
 [WIN2006BU - Optimizing VMware Horizon and NVIDIA vGPU for the Best VDI User Experience](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2006BU.mp4)
 
-[WIN2384BU - Solve Your Citrix Problems with VMware Technologies](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2384BU.mp4)
+WIN2384BU - Solve Your Citrix Problems with VMware Technologies - Not available
 
 [WIN2537BU - What's New in Horizon 7](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN2537BU.mp4)
 
