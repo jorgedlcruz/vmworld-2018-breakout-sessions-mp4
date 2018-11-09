@@ -4,4 +4,4 @@ Below are links to all the VMworld 2018 breakout sessions, in perfect MP4, that 
 
 VMworld US Playback URLs: **[vmworld-us-mp4-url.md](vmworld-us-mp4-url.md)**
 
-VMworld EU Playback URLs: **[vmworld-eu-mp4-url.md](vmworld-eu-mp4-url.md)**
+VMworld EU Playback URLs: **[vmworld-europe-mp4-url.md](vmworld-europe-mp4-url.md)**
